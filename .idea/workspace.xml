@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13128e27-ccc3-4a65-ac72-d9047789df93" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/site/assets/imgs/tik-tok-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/assets/js/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681755422742</updated>
       <workItem from="1681755423814" duration="1949000" />
-      <workItem from="1681762000162" duration="2073000" />
+      <workItem from="1681762000162" duration="2811000" />
     </task>
     <servers />
   </component>
