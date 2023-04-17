@@ -20,12 +20,8 @@ $(document).ready(function(){
     });
 
     $('.modal-toggle').click(function(){
-        $('.modalBox').toggleClass('show');
+        window.open('https://www.tiktok.com/@nocringerp')
     })
-
-    $('.modalBox').click(function(){
-        $(this).removeClass('show');
-    });
 
     $('.spinner').click(function(){
         $(".theme-selector").toggleClass('show');
