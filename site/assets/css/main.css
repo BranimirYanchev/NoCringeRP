@@ -68,7 +68,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  background-color: #fff;
+  background-color: #202428;
 }
 
 [tabindex="-1"]:focus {
@@ -11572,6 +11572,7 @@ a:hover {
 html,
 body {
   height: 100%;
+  scroll-behavior: smooth;
 }
 
 /* page container and row */
@@ -11746,4 +11747,8 @@ body.dark-theme {
 
 .server-style{
   font-size: 20px;
+}
+
+.tik-tok-logo{
+  width: 22px;
 }
