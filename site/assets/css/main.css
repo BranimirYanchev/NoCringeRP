@@ -11165,44 +11165,6 @@ a:hover {
   background-color: rgba(102, 176, 255, 0.7);
 }
 
-/* modal box */
-.modalBox {
-  position: fixed;
-  width: 0%;
-  height: 0%;
-  display: block;
-  z-index: 1000;
-  opacity: 0;
-  visibility: hidden;
-  background: rgba(33, 37, 41, 0.3);
-}
-
-.modalBox .modalBox-body {
-  width: 0%;
-  height: 0%;
-  -webkit-transition: height .4s;
-  transition: height .4s;
-  overflow: hidden;
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-}
-
-.modalBox.show {
-  opacity: 1;
-  visibility: visible;
-  top: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.modalBox.show .modalBox-body {
-  width: 70%;
-  height: 450px;
-}
 
 /* page navbar */
 .page-navbar {
@@ -11500,7 +11462,7 @@ a:hover {
   min-height: 600px;
   text-align: center;
   color: #fff;
-  background-image: url(../imgs/header.jpg);
+  background-image: url(../imgs/los-santos-img.jpeg);
   background-size: cover;
   background-position: center;
   -webkit-transition: .2s;
@@ -11780,4 +11742,8 @@ body.light-theme .contact-section .footer .links a {
 
 body.dark-theme {
   background: #212529;
+}
+
+.server-style{
+  font-size: 20px;
 }

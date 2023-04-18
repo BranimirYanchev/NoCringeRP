@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="13128e27-ccc3-4a65-ac72-d9047789df93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional things/gulpfile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/additional things/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/additional things/.gitattributes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/assets/css/dorang.css" beforeDir="false" afterPath="$PROJECT_DIR$/site/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/assets/js/dorang.js" beforeDir="false" afterPath="$PROJECT_DIR$/site/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/site/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="13128e27-ccc3-4a65-ac72-d9047789df93" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +60,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1681755422742</updated>
-      <workItem from="1681755423814" duration="1949000" />
+      <workItem from="1681755423814" duration="2544000" />
     </task>
     <servers />
   </component>
